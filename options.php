@@ -61,7 +61,7 @@ function optionsframework_options() {
 		'desc' => __('Set the minimum height for the header.', 'frontier'),
 		'id' => 'header_height',
 		'type' => 'text',
-		'std' => '140',
+		'std' => '100',
 		'class' => 'mini px-after');
 
 	$options[] = array(

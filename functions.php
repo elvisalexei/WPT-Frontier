@@ -317,7 +317,7 @@ function frontier_get_layout_values() {
 			$frontier_2col_content, $frontier_2col_sidebar, $frontier_3col_content, $frontier_3col_sidebar1, $frontier_3col_sidebar2;
 
 	$frontier_container = frontier_option('width_container', 960);
-	$frontier_header = frontier_option('header_height', 140);
+	$frontier_header = frontier_option('header_height', 100);
 	
 	$frontier_2col_content = frontier_option('width_two_column', 65);
 	$frontier_2col_sidebar = 100 - frontier_option('width_two_column', 65);
