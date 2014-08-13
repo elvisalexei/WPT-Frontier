@@ -312,8 +312,8 @@ address {margin-bottom: 10px;}
 
 #nav-main .nav-main > li, #nav-main .nav-main > ul > .page_item {
 	background: linear-gradient(to bottom, transparent 70%, rgba(0, 0, 0, 0.15) 100%);
-	border-right: 1px solid #023266;
-	border-left: 1px solid #4878AC;
+	border-right: 1px solid #ffffff;
+	border-left: 1px solid #ffffff;
 }
 
 #nav-main .nav-main > li > a, #nav-main .nav-main > ul > .page_item > a {
